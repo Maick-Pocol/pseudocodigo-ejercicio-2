@@ -1,0 +1,8 @@
+Inicio ejercicio 2.txt
+	Definir n,
+	Escribir "ingrese un numero"
+	leer n
+	mientras n <-- 1 <= n <= n
+	Escribir n
+		n = n - 1
+Fin algoritmo
